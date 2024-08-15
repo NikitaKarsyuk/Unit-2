@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("WikiTest")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+eb04313610aad239cc1db826f0f238b2cc3c6365")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c15afa9d46fa1d7f4132ecc5b81b2e42d1f89ef3")]
 [assembly: System.Reflection.AssemblyProductAttribute("WikiTest")]
 [assembly: System.Reflection.AssemblyTitleAttribute("WikiTest")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

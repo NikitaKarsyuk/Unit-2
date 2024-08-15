@@ -32,6 +32,7 @@ namespace WikiTest
         public void TearDown()
         {
             driver.Quit();
+            driver.Dispose();
         }
     }
 }
