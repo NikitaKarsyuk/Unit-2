@@ -943,11 +943,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\valen\\OneDrive\\Документы\\Visual Studio 2022\\gitProjects\\unit2\\csharp_unit_selenium-master\\ExampleProject\\ExampleProject.csproj",
+      "projectUniqueName": "C:\\Users\\valen\\OneDrive\\Документы\\Visual Studio 2022\\gitProjects\\Unit-2\\ExampleProject\\ExampleProject.csproj",
       "projectName": "ExampleProject",
-      "projectPath": "C:\\Users\\valen\\OneDrive\\Документы\\Visual Studio 2022\\gitProjects\\unit2\\csharp_unit_selenium-master\\ExampleProject\\ExampleProject.csproj",
+      "projectPath": "C:\\Users\\valen\\OneDrive\\Документы\\Visual Studio 2022\\gitProjects\\Unit-2\\ExampleProject\\ExampleProject.csproj",
       "packagesPath": "C:\\Users\\valen\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\valen\\OneDrive\\Документы\\Visual Studio 2022\\gitProjects\\unit2\\csharp_unit_selenium-master\\ExampleProject\\obj\\",
+      "outputPath": "C:\\Users\\valen\\OneDrive\\Документы\\Visual Studio 2022\\gitProjects\\Unit-2\\ExampleProject\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

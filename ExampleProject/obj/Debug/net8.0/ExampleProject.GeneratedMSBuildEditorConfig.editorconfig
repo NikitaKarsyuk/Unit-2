@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = ExampleProject
-build_property.ProjectDir = C:\Users\valen\OneDrive\Документы\Visual Studio 2022\gitProjects\unit2\csharp_unit_selenium-master\ExampleProject\
+build_property.ProjectDir = C:\Users\valen\OneDrive\Документы\Visual Studio 2022\gitProjects\Unit-2\ExampleProject\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

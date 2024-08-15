@@ -34,7 +34,6 @@ namespace ExampleProject.Selenium
         [TearDown]
         public void DeleteFile()
         {
-            Thread.Sleep(5000);
             if (downloadedFile.Exists)
             {
                 downloadedFile.Delete();

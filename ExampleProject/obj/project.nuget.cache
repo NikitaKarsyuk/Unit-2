@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "rMtSYAVvi4ddbs2DnxUtXwofYcQt/KmqsJuk0ohmzCwBT70AeOLsBaAhOU2DQjFiRt7DW4ohNLE3+3weoTr5wg==",
+  "dgSpecHash": "m3vn0YxNk6+w1TqvwJ9fnCpxBPlqtNK2QPNcItKaT8IZEWksygZb5yBc0IgpVhpA1f9Vl/25JiTi5Id7/T5/2A==",
   "success": true,
-  "projectFilePath": "C:\\Users\\valen\\OneDrive\\Документы\\Visual Studio 2022\\gitProjects\\unit2\\csharp_unit_selenium-master\\ExampleProject\\ExampleProject.csproj",
+  "projectFilePath": "C:\\Users\\valen\\OneDrive\\Документы\\Visual Studio 2022\\gitProjects\\Unit-2\\ExampleProject\\ExampleProject.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\valen\\.nuget\\packages\\coverlet.collector\\6.0.1\\coverlet.collector.6.0.1.nupkg.sha512",
     "C:\\Users\\valen\\.nuget\\packages\\dotnetseleniumextras.waithelpers\\3.11.0\\dotnetseleniumextras.waithelpers.3.11.0.nupkg.sha512",
