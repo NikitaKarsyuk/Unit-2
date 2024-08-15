@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\valen\\source\\repos\\WikiTest\\WikiTest\\WikiTest.csproj": {}
+    "C:\\Users\\valen\\OneDrive\\Документы\\Visual Studio 2022\\gitProjects\\Unit-2\\WikiTest\\WikiTest.csproj": {}
   },
   "projects": {
-    "C:\\Users\\valen\\source\\repos\\WikiTest\\WikiTest\\WikiTest.csproj": {
+    "C:\\Users\\valen\\OneDrive\\Документы\\Visual Studio 2022\\gitProjects\\Unit-2\\WikiTest\\WikiTest.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\valen\\source\\repos\\WikiTest\\WikiTest\\WikiTest.csproj",
+        "projectUniqueName": "C:\\Users\\valen\\OneDrive\\Документы\\Visual Studio 2022\\gitProjects\\Unit-2\\WikiTest\\WikiTest.csproj",
         "projectName": "WikiTest",
-        "projectPath": "C:\\Users\\valen\\source\\repos\\WikiTest\\WikiTest\\WikiTest.csproj",
+        "projectPath": "C:\\Users\\valen\\OneDrive\\Документы\\Visual Studio 2022\\gitProjects\\Unit-2\\WikiTest\\WikiTest.csproj",
         "packagesPath": "C:\\Users\\valen\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\valen\\source\\repos\\WikiTest\\WikiTest\\obj\\",
+        "outputPath": "C:\\Users\\valen\\OneDrive\\Документы\\Visual Studio 2022\\gitProjects\\Unit-2\\WikiTest\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

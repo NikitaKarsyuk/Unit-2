@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "855KYqevvkFN203cjs0FWRMDY9KXLFCFktML6cDFOz9aw13vXDQRVa8/CfdoT0RvsOyevS3GxrLvxTLB6TjhAw==",
+  "dgSpecHash": "hBfQp45e9jsj6n5e6CQVKxA9JK0rUvuii9ujXwU4/pUp6LVCHB0Tvbecfp99wxrlopBIsvZLtTi/rr0/ua2ajA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\valen\\source\\repos\\WikiTest\\WikiTest\\WikiTest.csproj",
+  "projectFilePath": "C:\\Users\\valen\\OneDrive\\Документы\\Visual Studio 2022\\gitProjects\\Unit-2\\WikiTest\\WikiTest.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\valen\\.nuget\\packages\\coverlet.collector\\6.0.0\\coverlet.collector.6.0.0.nupkg.sha512",
     "C:\\Users\\valen\\.nuget\\packages\\dotnetseleniumextras.waithelpers\\3.11.0\\dotnetseleniumextras.waithelpers.3.11.0.nupkg.sha512",

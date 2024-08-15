@@ -14,7 +14,7 @@ namespace WikiTest
 
         protected static readonly string preciseTextXpath = "//*[text()='{0}']";
         protected static readonly string partialTextXpath = "//*[contains(text(),'{0}')]";
-        protected static readonly string relativePathFolder = @"C:\Users\valen\Downloads\";
+        protected static readonly string relativePathFolder = @"Resources\";
         protected static readonly string url = "https://www.wikipedia.org/";
         protected static readonly int maxWait = 10;
 
@@ -23,7 +23,7 @@ namespace WikiTest
         {
             var chromeOptions = new ChromeOptions();
             chromeOptions.AddUserProfilePreference("download.default_directory", Path.GetFullPath(relativePathFolder));
-            driver = new ChromeDriver();
+            driver = new ChromeDriver(chromeOptions);
             wait = new WebDriverWait(driver, TimeSpan.FromSeconds(maxWait));
             driver.Manage().Window.Maximize();
             driver.Navigate().GoToUrl(url);
