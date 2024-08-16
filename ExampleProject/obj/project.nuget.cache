@@ -1,0 +1,21 @@
+{
+  "version": 2,
+  "dgSpecHash": "m3vn0YxNk6+w1TqvwJ9fnCpxBPlqtNK2QPNcItKaT8IZEWksygZb5yBc0IgpVhpA1f9Vl/25JiTi5Id7/T5/2A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\valen\\OneDrive\\Документы\\Visual Studio 2022\\gitProjects\\Unit-2\\ExampleProject\\ExampleProject.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\valen\\.nuget\\packages\\coverlet.collector\\6.0.1\\coverlet.collector.6.0.1.nupkg.sha512",
+    "C:\\Users\\valen\\.nuget\\packages\\dotnetseleniumextras.waithelpers\\3.11.0\\dotnetseleniumextras.waithelpers.3.11.0.nupkg.sha512",
+    "C:\\Users\\valen\\.nuget\\packages\\microsoft.codecoverage\\17.9.0\\microsoft.codecoverage.17.9.0.nupkg.sha512",
+    "C:\\Users\\valen\\.nuget\\packages\\microsoft.net.test.sdk\\17.9.0\\microsoft.net.test.sdk.17.9.0.nupkg.sha512",
+    "C:\\Users\\valen\\.nuget\\packages\\microsoft.testplatform.objectmodel\\17.9.0\\microsoft.testplatform.objectmodel.17.9.0.nupkg.sha512",
+    "C:\\Users\\valen\\.nuget\\packages\\microsoft.testplatform.testhost\\17.9.0\\microsoft.testplatform.testhost.17.9.0.nupkg.sha512",
+    "C:\\Users\\valen\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\valen\\.nuget\\packages\\nunit\\4.1.0\\nunit.4.1.0.nupkg.sha512",
+    "C:\\Users\\valen\\.nuget\\packages\\nunit3testadapter\\4.5.0\\nunit3testadapter.4.5.0.nupkg.sha512",
+    "C:\\Users\\valen\\.nuget\\packages\\selenium.support\\4.23.0\\selenium.support.4.23.0.nupkg.sha512",
+    "C:\\Users\\valen\\.nuget\\packages\\selenium.webdriver\\4.23.0\\selenium.webdriver.4.23.0.nupkg.sha512",
+    "C:\\Users\\valen\\.nuget\\packages\\system.reflection.metadata\\1.6.0\\system.reflection.metadata.1.6.0.nupkg.sha512"
+  ],
+  "logs": []
+}
